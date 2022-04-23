@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadassem&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadassem" /> </p>
 
-- 💬 Ask me about **OOP, ASP.net core, Restful APIs, .Net Framework, JavaScript, Angular, Entity Framework, LINQ, T-SQL**
+- 💬 Ask me about **OOP, ASP.Net core, Restful APIs, .Net Framework, JavaScript, Angular, Entity Framework, LINQ, T-SQL**
 
 - 📫 How to reach me **mohamedasemsyam@outlook.com**
 
